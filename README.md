@@ -21,7 +21,7 @@
 - 考虑为读者可能不知道的术语提供一个词汇表
 - 使用适当的列表格式
 - 考虑使用图像、插图、视频、音频和符号来帮助阐明含义
-<img src="Keep1.jpeg" width=200 height=200  />
+<img src="https://github.com/jiayiup/Web_Operations/blob/master/Keep1.png" width=200 height=200  />
 * 使内容具有可读性和可理解性
 <img src="Keep2.jpeg" width=200 height=200  />
 <img src="learnmore.jpeg" width=200 height=200  />
