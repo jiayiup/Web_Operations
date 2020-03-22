@@ -125,3 +125,11 @@
 - 官网对下图MAC产品的数据内容用简短、清晰的句子进行描述，适当的简单的语言更便于用户读取。
 - 并且使用适当的列表格式，使各产品的众多数据进行了对比，让顾客更好的进行选择心水产品。
 <img src="https://github.com/jiayiup/Web_Operations/blob/master/img/neirong.png"   />
+
+
+
+#### 小组成员：
+- 黄丽秒181013136
+- 陈嘉仪181013044
+#### 分工情况
+<img src="https://github.com/jiayiup/Web_Operations/blob/master/img/fengong.jpg"   />
