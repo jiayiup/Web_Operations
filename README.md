@@ -128,8 +128,8 @@
 
 
 
-#### 小组成员：
+### 小组成员：
 - 黄丽秒181013136
 - 陈嘉仪181013044
-#### 分工情况
-<img src="https://github.com/jiayiup/Web_Operations/blob/master/img/fengong.jpg"   />
+### 分工情况
+<img src="https://github.com/jiayiup/Web_Operations/blob/master/img/fengong.jpg"  width=200 height=200 />
